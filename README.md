@@ -3,7 +3,7 @@
 HoneyBadgerBFT is an asynchronous consensus protocol.
 
 Implementations (work in progress):
-- [HoneyBadgerBFT-Python](HoneyBadgerBFT-Python)
+- [HoneyBadgerBFT-Python](https://github.com/initc3/HoneyBadgerBFT-Go)
 - [HoneyBadgerBFT-Go](https://github.com/initc3/HoneyBadgerBFT-Go)
 
 Other (external) implementations:
