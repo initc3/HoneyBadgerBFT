@@ -7,6 +7,6 @@ Implementations (work in progress):
 - [HoneyBadgerBFT-Go](https://github.com/initc3/HoneyBadgerBFT-Go)
 
 Other (external) implementations:
-- https://github.com/rphmeier/honeybadger
-- https://github.com/helium/erlang-hbbft
-- https://github.com/poanetwork/hbbft
+- https://github.com/helium/erlang-hbbft (Erlang)
+- https://github.com/poanetwork/hbbft (Rust)
+- https://github.com/rphmeier/honeybadger (Rust)
