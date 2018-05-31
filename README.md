@@ -9,3 +9,4 @@ Implementations (work in progress):
 Other (external) implementations:
 - https://github.com/rphmeier/honeybadger
 - https://github.com/helium/erlang-hbbft
+- https://github.com/poanetwork/hbbft
